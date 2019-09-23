@@ -1,0 +1,7 @@
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\EjercicioCaracteres.exe.config
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\EjercicioCaracteres.exe
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\EjercicioCaracteres.pdb
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csprojAssemblyReference.cache
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csproj.CoreCompileInputs.cache
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.exe
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.pdb
