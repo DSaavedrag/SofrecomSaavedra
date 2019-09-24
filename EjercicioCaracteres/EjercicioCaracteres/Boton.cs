@@ -1,11 +1,11 @@
-﻿using System;
-
-namespace EjercicioCaracteres
+﻿namespace EjercicioCaracteres
 {
-    class Boton
+    public class Boton
     {
         private char[] caracteres;
         private int numero;
+        private bool espacio = false;
+
 
         public Boton(char[] caracteres, int numero)
         {
@@ -13,45 +13,72 @@ namespace EjercicioCaracteres
             this.numero = numero;
         }
 
-        public void setCaracteres(char[] caracteres)
+        public void SetCaracteres(char[] caracteres)
         {
             this.caracteres = caracteres;
         }
 
-        public char[] getCaracteres()
+        public char[] GetCaracteres()
         {
             return this.caracteres;
         }
 
-        public void setNumero(int numero)
+        public void SetNumero(int numero)
         {
             this.numero = numero;
         }
 
-        public int getNumero()
+        public int GetNumero()
         {
             return this.numero;
         }
 
-        public bool buscarChar(char c)
+        public void SetEspacio(bool espacio)
+        {
+            this.espacio = espacio;
+        }
+
+        public bool GetEspacio()
+        {
+            return this.espacio;
+        }
+        public string BuscarChar(char c)
         {
             bool encontrado = false;
             int i = 0;
+            string mostrar = "";
 
-            while (encontrado == false && i < this.getCaracteres().Length)
+            while (encontrado == false && i < this.GetCaracteres().Length)
             {
-                if (this.getCaracteres()[i] == c)
+                if (this.GetCaracteres()[i] == c)
                 {
-                    Console.WriteLine(this.getNumero());
                     encontrado = true;
                 }
                 else
                 {
                     i++;
                 }
+                if (this.GetEspacio() == true)
+                {
+                    mostrar += " " + GetNumero();
+                    this.SetEspacio(false);
+                }
+                else
+                    mostrar += GetNumero();
             }
-            return false;
+            if (encontrado == true)
+            {
+                this.SetEspacio(true);
+                return mostrar;
+            }
+            {
+
+            }
+            return null;
         }
+
+
     }
+
 }
 

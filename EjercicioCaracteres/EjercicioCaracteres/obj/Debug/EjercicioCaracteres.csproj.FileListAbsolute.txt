@@ -5,3 +5,10 @@ D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\Ej
 D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csproj.CoreCompileInputs.cache
 D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.exe
 D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.pdb
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\EjercicioCaracteres.exe.config
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\EjercicioCaracteres.exe
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\EjercicioCaracteres.pdb
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csprojAssemblyReference.cache
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.exe
+C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.pdb
