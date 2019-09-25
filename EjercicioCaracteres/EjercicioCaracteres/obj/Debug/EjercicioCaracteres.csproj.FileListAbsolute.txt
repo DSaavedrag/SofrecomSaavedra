@@ -12,3 +12,7 @@ C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\Ejerci
 C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csproj.CoreCompileInputs.cache
 C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.exe
 C:\Users\colasEzequiel.Puccio\source\repos\DiegoCaracteres\CelularAntiguo\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.pdb
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\nunit.framework.dll
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\nunit.framework.pdb
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\bin\Debug\nunit.framework.xml
+D:\Diego\Sistemas\Visual Studio\Sofrecom\SofrecomSaavedra\EjercicioCaracteres\EjercicioCaracteres\obj\Debug\EjercicioCaracteres.csproj.CopyComplete

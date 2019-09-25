@@ -71,14 +71,8 @@
                 this.SetEspacio(true);
                 return mostrar;
             }
-            {
-
-            }
             return null;
         }
-
-
     }
-
 }
 

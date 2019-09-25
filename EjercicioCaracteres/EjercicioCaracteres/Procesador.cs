@@ -8,7 +8,7 @@ namespace EjercicioCaracteres
 
         public List<Boton> Iniciar() //devuelve la lista de botones, con su correspondiente cadena de caracteres y número.
         {
-            // Constructor de todos los botones, con su correspondiente valor númerico.
+            // Creación de todos los botones, con su correspondiente valor númerico.
             int cantidad = 9;
             List<Boton> botones = new List<Boton>();
             Boton boton;
@@ -28,7 +28,7 @@ namespace EjercicioCaracteres
 
             //--------------------------------------------------------------------------
 
-            //Set de los caracteres en su correspondiente boton.
+            //Set de los caracteres en su correspondiente botón.
 
             string alfabeto = "abcdefghijklmnopqrstuvwxyz ";
 
@@ -60,6 +60,7 @@ namespace EjercicioCaracteres
         }
         public string RecorrerString(string input,List<Boton> botones)
         {
+            input = input.ToLower();
             string result = "";
             for (int i = 0; i < input.Length; i++)
             {
@@ -75,10 +76,36 @@ namespace EjercicioCaracteres
                         result = "";
                     }
                     j++;
+                    if(j+1==botones.Count && string.IsNullOrEmpty(result))
+                    {
+                        result = "?";
+                    }
                 }
 
             }
             return result;
         }//Recorre cada caracter del input y lo va buscando en cada boton hasta encontrarlo, luego imprime.
+
+        public void Ejecutar(List<Boton> botones)
+        {
+            bool run = true;
+            string valor;
+            while (run)
+            {
+                Console.WriteLine("Ingrese una oración");
+                string oracion = Console.ReadLine();
+                Console.WriteLine("Su oración fue: " + oracion);
+                this.RecorrerString(oracion, botones);
+                Console.WriteLine();
+                Console.WriteLine("Ingrese 0 para terminar o cualquier tecla para seguir.");
+                valor = Console.ReadLine();
+                if (valor == "0")
+                {
+                    run = false;
+                    Console.WriteLine("Gracias por utilizar nuestra app! :)");
+                }
+            }
+            Console.ReadKey();
+        }//Corre la consola y ejecuta el programa.
     }
 }
